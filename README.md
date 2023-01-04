@@ -1,9 +1,9 @@
 <h2 align="center">Oiie, eu sou a May🔮</h2>
 
 <div align="center"> 
-  Sou autodidata na área da tecnológia com foco em desenvolvimento front-end. 
+  Estou estudando análise e desenvolvimento de programas, com o foco em desenvolvimento front-end. 
   <br>
-  Estou em busca de um estágio, durante minha pós-graduação em análise e desenvolvimento de programas.
+  E em busca de um estágio, durante minha pós-graduação em análise e desenvolvimento de programas.
 </div>
 <br>
   
