@@ -3,7 +3,7 @@
 <div align="center"> 
   Estou estudando linguagens da programação, com o foco em desenvolvimento front-end. 
   <br>
-  E em busca de um estágio, durante minha pós-graduação em análise e desenvolvimento de programas.
+  E em busca de um estágio, durante minha pós-graduação em análise e desenvolvimento de programas para iniciar minha carreira na área.
 </div>
 <br>
   
