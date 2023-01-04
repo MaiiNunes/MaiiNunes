@@ -1,9 +1,13 @@
-### Oiie, eu sou a May!🔮
+<h2 align="center">Oiie, eu sou a May!🔮</h2>
 
+<div align="center"> 
 Sou autodidata na área da tecnológia com foco em desenvolvimento front-end. 
 <br>
 Estou em busca de um estágio, durante minha pós-graduação em análise e desenvolvimento de programas.
+</div>
 
+<br>
+  
 <div align="center">
   <a href="https://github.com/maiinunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiinunes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
