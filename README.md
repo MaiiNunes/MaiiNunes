@@ -1,7 +1,7 @@
 <h2 align="center">Oiie, eu sou a May🔮</h2>
 
 <div align="center"> 
-  Estou estudando análise e desenvolvimento de programas, com o foco em desenvolvimento front-end. 
+  Estou estudando linguagens da programação, com o foco em desenvolvimento front-end. 
   <br>
   E em busca de um estágio, durante minha pós-graduação em análise e desenvolvimento de programas.
 </div>
