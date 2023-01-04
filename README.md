@@ -1,4 +1,4 @@
-<h2 align="center">Oiie, eu sou a May!🔮</h2>
+<h2 align="center">Oiie, eu sou a May🔮</h2>
 
 <div align="center"> 
 Sou autodidata na área da tecnológia com foco em desenvolvimento front-end. 
