@@ -1,6 +1,6 @@
 ### Oiie, eu sou a May!🔮
 
-Sou autodidata na área da tecnológia com foco em desenvolvedor front-end. 
+Sou autodidata na área da tecnológia com foco em desenvolvimento front-end. 
 <br>
 Estou em busca de um estágio, durante minha pós-graduação em análise e desenvolvimento de programas.
 
