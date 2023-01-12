@@ -9,8 +9,8 @@
   
 <div align="center">
   <a href="https://github.com/maiinunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiinunes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiinunes&layout=compact)](https://github.com/maiinunes/github-readme-stats)&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?user=maiinunes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=maiinunes&layout=compact)](https://github.com/maiinunes/github-readme-stats)&theme=nightowl"/>
 </div>
     
 <div style="display: inline_block">
