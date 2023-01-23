@@ -12,15 +12,22 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maiinunes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maiinunes&layout=compact)](https://github.com/maiinunes/github-readme-stats)&theme=nightowl"/>
 </div>
+<br>
     
-<div style="display: inline_block">
-  <img align="right" alt="may-gif" width="10%" src="https://cdn.discordapp.com/attachments/756311822839054428/1060300276889817218/may_gif_1.gif">
+<div align="center" style="display: inline_block">
+  <img align="center" alt="may-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="may-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="may-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="may-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="may-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="may-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="may-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
+  <img align="right" alt="may-gif" width="10%" src="https://cdn.discordapp.com/attachments/756311822839054428/1060300276889817218/may_gif_1.gif">
   
 ##
   
-<div align="center">
-  <a href="-img-" target="_blank"><img alt="MayNodeJs" height="28" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<div align="center" style="display: inline_block">
   <a href="https://app.rocketseat.com.br/me/maisa-t-nunes" target="_blank"><img height="28" width="107" src="https://cdn.discordapp.com/attachments/796447278566998106/1063146366987145297/rocketseat-.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maisatnunes/" target="_blank"><img height="28" width="107" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:maisa.t.nunes@gmail.com" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
