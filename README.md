@@ -28,7 +28,7 @@
 ##
   
 <div align="center" style="display: inline_block">
-  <a href="https://app.rocketseat.com.br/me/maisa-t-nunes" target="_blank"><img height="28" width="107" src="https://cdn.discordapp.com/attachments/796447278566998106/1063146366987145297/rocketseat-.png" target="_blank"></a>
+  <a href="https://university.atlassian.com/student/award/66EntqAvrEBd7smT223Bketq" target="_blank"><img height="28" width="85" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/maisatnunes/" target="_blank"><img height="28" width="107" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://maiinunes.github.io/" target="_blank"><img height="40" width="40" src="https://cdn.discordapp.com/attachments/796447278566998106/1072965526470541382/pc_cat.png" target="_blank"></a>
   <a href="mailto:maisa.t.nunes@gmail.com" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
